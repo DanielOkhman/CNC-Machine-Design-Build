@@ -1,4 +1,4 @@
-# CNC-Machine-Design-Build
+# CNC Machine Design & Build - *In Progress*
 
 <p align="center">
   <a href="https://github.com/DanielOkhman/Daniel-Okhman">
@@ -7,42 +7,14 @@
 </p>
 
 ---
+
 ## Objective
-Design and Build a CNC machine
 
-The purpose of this project was to design build and test and electric motor to reach a high level of efficiency. The primary focus was to increase working efficiency and see the application of different changes in the design. This hands-on experience was designed to deepen my understanding of electronics, controllers, and electromagnetism.
+The objective of this project is to design and build a functional CNC motion platform from the ground up in order to deepen my understanding of motion control systems, electromechanical integration, and computer-controlled manufacturing.  
 
----
-
-### Skills Learned/Refined
-
-- 
-
+Rather than purchasing a prebuilt kit, I chose to engineer the system myself — configuring stepper motors, tuning GRBL parameters, assembling the mechanical frame, and validating smooth, repeatable motion. The long-term goal is to integrate a spindle and transition from motion validation to precision material cutting.
 
 ---
-
-### Tools Used
-
-- 
----
-
-### Steps Taken
-
---------
-
-#### 1)
-
----
-
-<p align="center">
-  <a href="https://github.com/DanielOkhman/Daniel-Okhman">
-    ← Back to Main Portfolio
-  </a>
-</p>
-
----
-
-# DIY CNC Router Build (GRBL + Arduino + Steppers) — *In Progress*
 
 > A scratch-built CNC motion platform using stepper motors and an Arduino + motor shield running GRBL.  
 > Current milestone: **reliable, smooth X/Y motion + homing/limits (if installed)**. Next milestone: **spindle + mount + first cuts**.
@@ -146,5 +118,8 @@ The purpose of this project was to design build and test and electric motor to r
 - Document calibration results (repeatability, backlash checks, squareness)
 
 ---
-
-## Repo Structure (Suggested)
+<p align="center">
+  <a href="https://github.com/DanielOkhman/Daniel-Okhman">
+    ← Back to Main Portfolio
+  </a>
+</p>

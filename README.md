@@ -70,7 +70,7 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself whi
 ## Tools Used
 
 **Hardware**
-- Stepper motors (X/Y axes; Z planned depending on design)
+- Stepper motors (X/Y axes; Z in progress)
 - Arduino and motor shield as GRBL controller
 - CNC frame components
 - Power supply

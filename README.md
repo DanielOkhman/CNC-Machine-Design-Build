@@ -34,7 +34,7 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself —
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/6a934d01ce711f70aa0d2500dbf3b0ae6c0a002c/IMG_6542.jpeg" width="400"/><br>
+<img src="https://github.com/DanielOkhman/CNC-Machine-Design-Build/blob/8fa8024044576af72d63a2afc24f604502b99ea2/IMG_7027.jpg" width="400"/><br>
 </td>
 
 <td align="center">

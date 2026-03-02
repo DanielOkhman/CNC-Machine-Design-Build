@@ -78,7 +78,7 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself whi
 **Software**
 - **GRBL** (firmware / motion control)
 - G-code sender on laptop via Universal Gcode Sender
-- (Planned) CAD for future cutting (Fusion 360, Aspire.)
+- CAD for future cutting (Fusion 360, Aspire.)
 
 ---
 

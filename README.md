@@ -58,8 +58,8 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself whi
 
 ## Skills Learned
 
-- **Motion control + CNC fundamentals:** setting steps/mm, direction, acceleration, max feed rates, and understanding how these affect smoothness and missed steps  
-- **GRBL workflow:** jogging, sending G-code
+- **Motion control:** setting steps/mm, direction, acceleration, max feed rates, and understanding how these affect smoothness and missed steps  
+- **GRBL workflow:** jogging, converting CAD to G-code, sending G-code
 - **Stepper motor integration:** wiring, coil pairing and basic torque/speed tradeoffs  
 - **Electromechanical debugging:** diagnosing vibration, stalling, and wiring issues using systematic tests and incremental changes  
 - **Mechanical build iteration:** squaring the frame, aligning rails and checking rigidity

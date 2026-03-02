@@ -30,15 +30,13 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself —
   <a href="https://www.youtube.com/watch?v=yPvveoob8fM">
     <img src="https://img.youtube.com/vi/yPvveoob8fM/hqdefault.jpg"
          alt="CNC motion demo video"
-         width="700">
+         width="400">
   </a>
 </p>
 
 <p align="center">
   <i>Click image to watch demo video ↗</i>
 </p>
-
-<hr>
 
 ---
 

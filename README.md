@@ -10,14 +10,11 @@
 
 ## Objective
 
-The objective of this project is to design and build a functional CNC motion platform from the ground up in order to deepen my understanding of motion control systems, electromechanical integration, and computer-controlled manufacturing.  
+The objective of this project is to design and build a functional CNC machine in order to deepen my understanding of motion control systems, electromechanical integration, and computer-controlled manufacturing.  
 
-Rather than purchasing a prebuilt kit, I chose to engineer the system myself — configuring stepper motors, tuning GRBL parameters, assembling the mechanical frame, and validating smooth, repeatable motion. The long-term goal is to integrate a spindle and transition from motion validation to precision material cutting.
+Rather than purchasing a prebuilt kit, I chose to engineer the system myself — configuring stepper motors, looking into GRBL parameters, assembling the mechanical frame, and validating smooth, repeatable motion. The long-term goal is to integrate a spindle and transition from simply motion to precision cutting.
 
 ---
-
-> A scratch-built CNC motion platform using stepper motors and an Arduino + motor shield running GRBL.  
-> Current milestone: **reliable, smooth X/Y motion + homing/limits (if installed)**. Next milestone: **spindle + mount + first cuts**.
 
 **Status:** Smooth motion, jogging, consistent travel, repeatable positioning 
 **Next:** Spindle + mount, cable management/drag chain, first test cuts

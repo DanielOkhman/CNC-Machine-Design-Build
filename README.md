@@ -18,7 +18,7 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself whi
 
 **Status:** Smooth motion, jogging, consistent travel, repeatable positioning 
 
-**Next:** Spindle + mount, cable management/drag chain, first test cuts
+**Next:** Spindle, cable management/drag chain, first test cuts
 
 ---
 

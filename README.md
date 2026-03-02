@@ -19,13 +19,12 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself —
 > A scratch-built CNC motion platform using stepper motors and an Arduino + motor shield running GRBL.  
 > Current milestone: **reliable, smooth X/Y motion + homing/limits (if installed)**. Next milestone: **spindle + mount + first cuts**.
 
-**Status:** 🟡 In Progress  
-**Works:** ✅ Smooth motion, jogging, consistent travel, repeatable positioning (within current mechanical limits)  
-**Next:** 🔜 Spindle + mount, cable management/drag chain, squaring/tramming, first test cuts
+**Status:** Smooth motion, jogging, consistent travel, repeatable positioning 
+**Next:** Spindle + mount, cable management/drag chain, first test cuts
 
 ---
 
-## Demo (Video)
+## Demo Video
 
 **Smooth motion + GRBL control demo:**  
 [![CNC Build Demo (YouTube)](https://img.youtube.com/vi/yPvveoob8fM/hqdefault.jpg)](https://www.youtube.com/watch?v=yPvveoob8fM)

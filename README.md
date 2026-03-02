@@ -12,7 +12,7 @@
 
 The objective of this project is to design and build a functional CNC machine in order to deepen my understanding of motion control systems, electromechanical integration, and computer-controlled manufacturing.  
 
-Rather than purchasing a prebuilt kit, I chose to engineer the system myself — configuring stepper motors, looking into GRBL parameters, assembling the mechanical frame, and validating smooth, repeatable motion. The long-term goal is to integrate a spindle and transition from simply motion to precision cutting.
+Rather than purchasing a prebuilt kit, I chose to engineer the system myself which included: configuring stepper motors, looking into GRBL parameters, assembling the mechanical frame, and validating smooth, repeatable motion. The long-term goal is to integrate a spindle and transition from simply motion to precision cutting.
 
 ---
 

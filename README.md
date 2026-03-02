@@ -84,7 +84,7 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself whi
 
 ## Next Steps
 
-- Add spind 
+- Add spindle 
 - Implement/verify limit switches and homing 
 - Improve cable management with a drag chain
 - Add/finish Z-axis

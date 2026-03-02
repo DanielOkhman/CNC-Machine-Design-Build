@@ -31,12 +31,17 @@ Rather than purchasing a prebuilt kit, I chose to engineer the system myself —
 
 ## Build Photos
 
-> *(Place your images in `assets/cnc/` and rename as needed.)*
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/6a934d01ce711f70aa0d2500dbf3b0ae6c0a002c/IMG_6542.jpeg" width="400"/><br>
+</td>
 
-| View | Notes |
-|---|---|
-| ![CNC build overview](assets/cnc/IMG_7027.jpg) | Frame + gantry assembly and early wiring/control setup |
-| ![CNC build angle view](assets/cnc/IMG_7029.jpg) | Motion platform with laptop/GRBL interface and electronics |
+<td align="center">
+<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/85935705922fd17cd7e72fb91e2abe28dd3aee59/IMG_6538.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
 
 ---
 
